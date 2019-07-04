@@ -17,19 +17,19 @@ A "stroke" is a change made to the code, and every stroke costs you points.
 Your pairing partner should carefully score you as follows:
 
 ## Add points
-+1 points for every refactor
-+1 points for every Copy+paste
-+1 points for every change made to the code using a shortcut or automated IDE feature (e.g., an automated refactoring, code template, or Find/Replace)
+- +1 points for every refactor
+- +1 points for every Copy+paste
+- +1 points for every change made to the code using a shortcut or automated IDE feature (e.g., an automated refactoring, code template, or Find/Replace)
 
 ## Plus points
-+2 points for every line of code manually edited
-X2 points For every change made while the code cannot pass the tests after the previous change
+- +2 points for every line of code manually edited
+- X2 points For every change made while the code cannot pass the tests after the previous change
 
 ## Empty points
-+0 points revert changes (ctrl + z git revert)
-+0 points formating
-+0 points remove code
-+0 points remove lines
-+0 points change access methods or clases
+- +0 points revert changes (ctrl + z git revert)
+- +0 points formating
+- +0 points remove code
+- +0 points remove lines
+- +0 points change access methods or clases
 
 
