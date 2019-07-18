@@ -15,14 +15,17 @@ namespace Round2.A
             Game[] played = new FootballData().GetAllPlayed();
             foreach (Game game in played)
             {
+                int teamScore = 0;
                 if (game.HomeTeam.Equals(teamName))
                 {
-                    total += game.HomeTeamScore;
+                    teamScore = game.HomeTeamScore;
                 }
                 if (game.AwayTeam.Equals(teamName))
                 {
-                    total += game.AwayTeamScore;
+                    teamScore = game.AwayTeamScore;
                 }
+
+                total += teamScore;
             }
             return total;
 	}
