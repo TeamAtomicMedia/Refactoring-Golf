@@ -12,7 +12,7 @@ namespace Round2.A
         public int TeamTotal(String teamName)
         {
             int total = 0;
-            Game[] played = FootballData.GetAllPlayed();
+            Game[] played = new FootballData().GetAllPlayed();
             foreach (Game game in played)
             {
                 if (game.HomeTeam.Equals(teamName))
