@@ -4,8 +4,12 @@ Based Kata:
 
 Refactoring Golf is a game designed to explore your IDE to see what's really possible using shortcuts and automation.
 
+For this exercise, you should pair up, and the person with the most experience with Rider refactoring should 'navigate' while the least experienced 'drives'
+
 While most refactorings can be done by mouse from the 'refactor' menu, real 'golfers' use the keyboard:
 - https://www.jetbrains.com/help/rider/Keymaps_Comparison_Mac.html#refactorings
+
+It's also a lot easier to communicate a key combination than menu selections in most cases...
 
 You will find two versions of every project:
 - ROUND_N_A
@@ -35,9 +39,9 @@ Your pairing partner should carefully score you as follows:
 - +0 points remove lines
 - +0 points change access methods or classes
 
-Par:
-- Round 1: 4
-- Round 2: 11
+## Course Records
+- Round 1: Par 4 (Ronnie)
+- Round 2: Par 11 (Ronnie)
 - Round 3: ?
 - Round 4: ?
 - Round 5: ?
