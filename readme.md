@@ -1,8 +1,11 @@
 # Initial information
-Based Kata: 
+Based on Kata: 
 [Jason Gorman](http://codemanship.co.uk/parlezuml/blog/?postid=1360)
 
 Refactoring Golf is a game designed to explore your IDE to see what's really possible using shortcuts and automation.
+
+While most refactorings can be done by mouse from the 'refactor' menu, real 'golfers' use the keyboard:
+- https://www.jetbrains.com/help/rider/Keymaps_Comparison_Mac.html#refactorings
 
 You will find two versions of every project:
 - ROUND_N_A
@@ -27,11 +30,14 @@ Your pairing partner should carefully score you as follows:
 
 ## Empty points
 - +0 points revert changes (ctrl + z git revert)
-- +0 points formating
+- +0 points formatting
 - +0 points remove code
 - +0 points remove lines
-- +0 points change access methods or clases
+- +0 points change access methods or classes
 
 Par:
 - Round 1: 5
-- Round 2: ?
+- Round 2: 11
+- Round 3: ?
+- Round 4: ?
+- Round 5: ?
