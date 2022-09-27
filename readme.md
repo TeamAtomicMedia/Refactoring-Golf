@@ -30,10 +30,10 @@ Your pairing partner should carefully score you as follows:
 
 ## Empty points
 - +0 points revert changes (ctrl + z git revert)
-- +0 points formating
+- +0 points formatting
 - +0 points remove code
 - +0 points remove lines
-- +0 points change access methods or clases
+- +0 points change access methods or classes
 
 Par:
 - Round 1: 4
