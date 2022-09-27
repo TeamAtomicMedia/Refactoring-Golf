@@ -1,6 +1,7 @@
 # Initial information
 Based Kata: 
 [Jason Gorman](http://codemanship.co.uk/parlezuml/blog/?postid=1360)
+Forked from (https://github.com/Ramon-Balaguer/Refactoring-Golf)
 
 Refactoring Golf is a game designed to explore your IDE to see what's really possible using shortcuts and automation.
 
@@ -27,9 +28,11 @@ Your pairing partner should carefully score you as follows:
 
 ## Empty points
 - +0 points revert changes (ctrl + z git revert)
-- +0 points formating
+- +0 points formatting
 - +0 points remove code
 - +0 points remove lines
-- +0 points change access methods or clases
+- +0 points change access methods or classes
 
-
+Par:
+Round 1: 5
+Round 2:

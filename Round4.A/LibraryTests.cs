@@ -16,7 +16,7 @@ namespace Round4.A
             Assert.Equal(titleName, (String)donatedTitle[0]);
             Assert.Equal(donorId, (String)donatedTitle[1]);
             Assert.Equal(1, (int)donatedTitle[2]);
-            Assert.Equal(1, library.GetTitlesDonatedByMember(donorId).Count);
+            Assert.Single(library.GetTitlesDonatedByMember(donorId));
         }
     }
 }

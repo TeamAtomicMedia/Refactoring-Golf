@@ -22,7 +22,7 @@ namespace Round4.B
             Assert.Equal(titleName, title.TitleName);
             Assert.Equal(donorId, title.DonorId);
             Assert.Equal(1, title.CopyCount);
-            Assert.Equal(1, library.GetTitlesDonatedByMember(donorId).Count);
+            Assert.Single(library.GetTitlesDonatedByMember(donorId));
         }
     }
 }
