@@ -34,5 +34,5 @@ Your pairing partner should carefully score you as follows:
 - +0 points change access methods or classes
 
 Par:
-Round 1: 5
-Round 2:
+- Round 1: 5
+- Round 2: ?
