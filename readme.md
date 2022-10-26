@@ -40,8 +40,8 @@ Your pairing partner should carefully score you as follows:
 - +0 points change access methods or classes
 
 ## Course Records
-- Round 1: Par 4 (Ronnie)
-- Round 2: Par 11 (Ronnie)
+- Round 1: Par 6 (Ronnie) - Record 5 (AW/AS)
+- Round 2: Par 11 (Ronnie) - Record 8 (AW/AL)
 - Round 3: ?
 - Round 4: ?
 - Round 5: ?
